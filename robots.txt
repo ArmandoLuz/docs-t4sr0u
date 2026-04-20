@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-jy7xhi.evergrowtech.net/sitemap.xml
